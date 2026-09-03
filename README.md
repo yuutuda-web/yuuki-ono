@@ -1,6 +1,6 @@
 # yuuki-ono
 
-A smple practice project for learning Git and GitHub with Claude Code.
+A simple practice project for learning Git and GitHub with Claude Code.
 
 ## What's here
 
